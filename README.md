@@ -5,12 +5,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/prathekshak">
-    <img src="https://komarev.com/ghpvc/?username=prathekshak&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/pratheksha-kanagaraj-4bb8a9186/">
     <img src="https://img.shields.io/badge/LinkedIn-Pratheksha%20Kanagaraj-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
